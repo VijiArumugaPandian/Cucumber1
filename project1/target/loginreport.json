@@ -1,0 +1,58 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-16T10:47:04.190Z",
+        "line": 5,
+        "name": "Login Check",
+        "description": "",
+        "id": "checking-the-login-functionality;login-check",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3985800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is in website",
+            "match": {
+              "location": "stepdescription.login.user_is_in_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter valid username and password",
+            "match": {
+              "location": "stepdescription.login.user_enter_valid_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User lands in home page",
+            "match": {
+              "location": "stepdescription.login.user_lands_in_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "checking the login functionality",
+    "description": "",
+    "id": "checking-the-login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/login.feature",
+    "tags": []
+  }
+]

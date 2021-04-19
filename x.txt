@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C010-D128
+
+ Directory of C:\Users\PAVIJI\Desktop\gitt
+
+19-Apr-21  02:58 PM    <DIR>          .
+19-Apr-21  02:58 PM    <DIR>          ..
+19-Apr-21  02:58 PM                 0 x.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  82,609,242,112 bytes free
